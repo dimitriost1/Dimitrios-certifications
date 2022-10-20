@@ -1,1 +1,1 @@
-<a href="https://dimitrios-sololern-certificates.netlify.app" target="_blank">live demo</a>
+<a href="https://dimitrios-certifications.netlify.app/" target="_blank">live demo</a>

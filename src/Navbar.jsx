@@ -37,7 +37,7 @@ const NavbarComponent = ({ setSearchInput, searchInput }) => {
               Sololearn Profile
             </Nav.Link>
             <Nav.Link
-              href="https://github.com/dimitriost1/sololearn-certifications"
+              href="https://github.com/dimitriost1/Dimitrios-certifications"
               target="_blank"
             >
               GitHub repo
