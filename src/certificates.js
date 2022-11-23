@@ -1,7 +1,8 @@
 const certificates = [
   {
     id: 18,
-    cert_image: "https://uploads.sololearn.com/uploads/courses/1097.png",
+    cert_image:
+      "https://github.com/dimitriost1/Dimitrios-certifications/blob/420e2da7702ee263481394d003cef6f9cc505307/public/react-linkedin-test.png",
     course: "LinkedIn  React.js assessment -  top 5%",
     cert_link: "public/react-linkedin-test.png",
   },
