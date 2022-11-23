@@ -4,8 +4,12 @@ const SingleCard = ({ cert_image, course, link }) => {
   return (
     <>
       <Col md={3} className="mx-4">
-        <Card style={{ width: "18rem" }}>
-          <Card.Img variant="top" src={cert_image} />
+        <Card style={{ width: "18rem", height: "25rem" }}>
+          <Card.Img
+            variant="top"
+            src={cert_image}
+            style={{ height: "25rem" }}
+          />
           <Card.Body>
             <Card.Title>{course}</Card.Title>
 

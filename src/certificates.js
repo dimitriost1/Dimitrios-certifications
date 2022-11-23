@@ -1,5 +1,18 @@
 const certificates = [
   {
+    id: 18,
+    cert_image: "https://uploads.sololearn.com/uploads/courses/1097.png",
+    course: "LinkedIn  React.js assessment -  top 5%",
+    cert_link: "public/react-linkedin-test.png",
+  },
+  {
+    id: 17,
+    cert_image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png",
+    course: "The Vue Bootcamp",
+    cert_link: "https://scrimba.com/certificate/uZd94PcQ/gvue",
+  },
+  {
     id: 1,
     cert_image: "https://uploads.sololearn.com/uploads/courses/1014.png",
     course: "HTML",
@@ -94,13 +107,6 @@ const certificates = [
     cert_image: "https://uploads.sololearn.com/uploads/courses/1158.png",
     course: "Intermediate Python",
     cert_link: "https://www.sololearn.com/certificates/CT-UXDZKL7Z",
-  },
-  {
-    id: 17,
-    cert_image:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png",
-    course: "The Vue Bootcamp",
-    cert_link: "https://scrimba.com/certificate/uZd94PcQ/gvue",
   },
 ];
 
